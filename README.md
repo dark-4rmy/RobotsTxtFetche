@@ -22,6 +22,7 @@ RobotsTxtFetche is a tool designed to fetch and analyze `robots.txt` files from 
 1. Extract the downloaded files to a directory of your choice.
 2. Open a terminal or command prompt in the extracted directory.
 3. Compile the Java files (if necessary):
-   ```bash
-  java -jar RobotsTxtGUI.jar
+ ```bash
+   java -jar RobotsTxtGUI.jar
+```
 
