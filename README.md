@@ -2,7 +2,7 @@
 
 ## Description
 
-RobotsTxtFetche is a tool designed to fetch and analyze `robots.txt` files from websites. This tool provides users with an easy-to-use interface to retrieve and view the content of `robots.txt` files, making it useful for web developers, SEO specialists, and cybersecurity enthusiasts.
+**RobotsTxtFetche** is a tool designed to fetch and analyze `robots.txt` files from websites. This tool provides users with an easy-to-use interface to retrieve and view the content of `robots.txt` files, making it useful for web developers, SEO specialists, and cybersecurity enthusiasts.
 
 ## Features
 
@@ -15,14 +15,18 @@ RobotsTxtFetche is a tool designed to fetch and analyze `robots.txt` files from 
 
 ### Prerequisites
 
-- **Java**: Make sure you have Java Development Kit (JDK) installed. You can download it from [Java's official website](https://www.java.com/download/).
+- **Java**: Make sure you have the Java Development Kit (JDK) installed. You can download it from [Java's official website](https://www.java.com/download/).
 
 ### Steps to Install
 
-1. Extract the downloaded files to a directory of your choice.
-2. Open a terminal or command prompt in the extracted directory.
-3. Compile the Java files (if necessary):
- ```bash
-   java -jar RobotsTxtGUI.jar
-```
+1. **Download and Extract**: Extract the downloaded files to a directory of your choice.
+2. **Run the Application**:
+    - **Windows**: Double-click `run.bat` to start the application.
+    - **Linux/macOS**: Open a terminal and run `java -jar RobotsTxtGUI.jar`.
 
+### Running the Application
+
+- **For Windows**: Simply double-click `run.bat` to launch the application.
+- **For Linux/macOS**: In the terminal, run the following command:
+  ```bash
+  java -jar RobotsTxtGUI.jar
